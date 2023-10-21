@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "iterator": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "charconv": "cpp",
+        "ratio": "cpp",
+        "system_error": "cpp",
+        "list": "cpp",
+        "xlocale": "cpp"
+    }
+}
